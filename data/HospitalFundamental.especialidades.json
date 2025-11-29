@@ -1,0 +1,42 @@
+[{
+  "_id": {
+    "$oid": "692afc674d1e8be99b12c0ef"
+  },
+  "nome": "Pediatria"
+},
+{
+  "_id": {
+    "$oid": "692afc674d1e8be99b12c0f0"
+  },
+  "nome": "Clínica Geral"
+},
+{
+  "_id": {
+    "$oid": "692afc674d1e8be99b12c0f1"
+  },
+  "nome": "Gastroenterologia"
+},
+{
+  "_id": {
+    "$oid": "692afc674d1e8be99b12c0f2"
+  },
+  "nome": "Dermatologia"
+},
+{
+  "_id": {
+    "$oid": "692afc674d1e8be99b12c0f3"
+  },
+  "nome": "Cardiologia"
+},
+{
+  "_id": {
+    "$oid": "692afc674d1e8be99b12c0f4"
+  },
+  "nome": "Ortopedia"
+},
+{
+  "_id": {
+    "$oid": "692afc674d1e8be99b12c0f5"
+  },
+  "nome": "Neurologia"
+}]

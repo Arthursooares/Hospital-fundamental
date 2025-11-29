@@ -1,0 +1,98 @@
+[{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c108"
+  },
+  "nome": "Lucas Pereira",
+  "data_nascimento": {
+    "$date": "2010-02-10T00:00:00.000Z"
+  },
+  "endereco": "Rua A, 123",
+  "telefone": "11988880001",
+  "email": "lucas.pereira@email.com",
+  "documentos": {
+    "cpf": "11111111111",
+    "rg": "12345678-1"
+  },
+  "convenio_id": {
+    "$oid": "692afc874d1e8be99b12c0f9"
+  },
+  "numero_carteira": "ST-0001"
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c109"
+  },
+  "nome": "Maria Silva",
+  "data_nascimento": {
+    "$date": "1995-05-20T00:00:00.000Z"
+  },
+  "endereco": "Rua B, 456",
+  "telefone": "11988880002",
+  "email": "maria.silva@email.com",
+  "documentos": {
+    "cpf": "22222222222",
+    "rg": "12345678-2"
+  },
+  "convenio_id": {
+    "$oid": "692afc874d1e8be99b12c0fa"
+  },
+  "numero_carteira": "VP-0002"
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c10a"
+  },
+  "nome": "João Souza",
+  "data_nascimento": {
+    "$date": "1980-09-15T00:00:00.000Z"
+  },
+  "endereco": "Rua C, 789",
+  "telefone": "11988880003",
+  "email": "joao.souza@email.com",
+  "documentos": {
+    "cpf": "33333333333",
+    "rg": "12345678-3"
+  },
+  "convenio_id": {
+    "$oid": "692afc874d1e8be99b12c0f9"
+  },
+  "numero_carteira": "ST-0003"
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c10b"
+  },
+  "nome": "Ana Clara",
+  "data_nascimento": {
+    "$date": "2012-11-30T00:00:00.000Z"
+  },
+  "endereco": "Rua D, 321",
+  "telefone": "11988880004",
+  "email": "ana.clara@email.com",
+  "documentos": {
+    "cpf": "44444444444",
+    "rg": "12345678-4"
+  },
+  "convenio_id": null,
+  "numero_carteira": null
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c10c"
+  },
+  "nome": "Carlos Alberto",
+  "data_nascimento": {
+    "$date": "1972-01-01T00:00:00.000Z"
+  },
+  "endereco": "Rua E, 654",
+  "telefone": "11988880005",
+  "email": "carlos.alberto@email.com",
+  "documentos": {
+    "cpf": "55555555555",
+    "rg": "12345678-5"
+  },
+  "convenio_id": {
+    "$oid": "692afc874d1e8be99b12c0fb"
+  },
+  "numero_carteira": "BE-0005"
+}]

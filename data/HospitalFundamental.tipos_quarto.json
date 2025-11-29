@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "692afc744d1e8be99b12c0f6"
+  },
+  "nome": "Apartamento",
+  "descricao": "Quarto individual com banheiro privativo",
+  "valor_diaria": 600
+},
+{
+  "_id": {
+    "$oid": "692afc744d1e8be99b12c0f7"
+  },
+  "nome": "Quarto Duplo",
+  "descricao": "Quarto compartilhado para dois pacientes",
+  "valor_diaria": 350
+},
+{
+  "_id": {
+    "$oid": "692afc744d1e8be99b12c0f8"
+  },
+  "nome": "Enfermaria",
+  "descricao": "Quarto coletivo",
+  "valor_diaria": 200
+}]

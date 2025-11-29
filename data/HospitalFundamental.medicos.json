@@ -1,0 +1,276 @@
+[{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c0fc"
+  },
+  "nome": "Gabriel Cardoso",
+  "data_nascimento": {
+    "$date": "1980-05-10T00:00:00.000Z"
+  },
+  "crm": "CRM-SP-1001",
+  "tipo": "Generalista",
+  "especialidades": [
+    "Clínica Geral"
+  ],
+  "contato": {
+    "telefone": "11999990001",
+    "email": "gabriel.cardoso@hospital.com"
+  },
+  "documentos": {
+    "cpf": "00011122233",
+    "rg": "1234567-1"
+  },
+  "em_atividade": false
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c0fd"
+  },
+  "nome": "Ana Paula Martins",
+  "data_nascimento": {
+    "$date": "1985-07-20T00:00:00.000Z"
+  },
+  "crm": "CRM-SP-1002",
+  "tipo": "Especialista",
+  "especialidades": [
+    "Pediatria"
+  ],
+  "contato": {
+    "telefone": "11999990002",
+    "email": "ana.martins@hospital.com"
+  },
+  "documentos": {
+    "cpf": "00011122244",
+    "rg": "1234567-2"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c0fe"
+  },
+  "nome": "João Gabriel Ferreira",
+  "data_nascimento": {
+    "$date": "1975-01-15T00:00:00.000Z"
+  },
+  "crm": "CRM-SP-1003",
+  "tipo": "Especialista",
+  "especialidades": [
+    "Gastroenterologia"
+  ],
+  "contato": {
+    "telefone": "11999990003",
+    "email": "joao.ferreira@hospital.com"
+  },
+  "documentos": {
+    "cpf": "00011122255",
+    "rg": "1234567-3"
+  },
+  "em_atividade": false
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c0ff"
+  },
+  "nome": "Mariana Souza",
+  "data_nascimento": {
+    "$date": "1990-03-30T00:00:00.000Z"
+  },
+  "crm": "CRM-SP-1004",
+  "tipo": "Especialista",
+  "especialidades": [
+    "Dermatologia"
+  ],
+  "contato": {
+    "telefone": "11999990004",
+    "email": "mariana.souza@hospital.com"
+  },
+  "documentos": {
+    "cpf": "00011122266",
+    "rg": "1234567-4"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c100"
+  },
+  "nome": "Carlos Eduardo Lima",
+  "data_nascimento": {
+    "$date": "1978-11-09T00:00:00.000Z"
+  },
+  "crm": "CRM-SP-1005",
+  "tipo": "Especialista",
+  "especialidades": [
+    "Cardiologia"
+  ],
+  "contato": {
+    "telefone": "11999990005",
+    "email": "carlos.lima@hospital.com"
+  },
+  "documentos": {
+    "cpf": "00011122277",
+    "rg": "1234567-5"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c101"
+  },
+  "nome": "Gabriel Menezes",
+  "data_nascimento": {
+    "$date": "1988-09-25T00:00:00.000Z"
+  },
+  "crm": "CRM-SP-1006",
+  "tipo": "Residente",
+  "especialidades": [
+    "Clínica Geral"
+  ],
+  "contato": {
+    "telefone": "11999990006",
+    "email": "gabriel.menezes@hospital.com"
+  },
+  "documentos": {
+    "cpf": "00011122288",
+    "rg": "1234567-6"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c102"
+  },
+  "nome": "Laura Fernandes",
+  "data_nascimento": {
+    "$date": "1982-12-12T00:00:00.000Z"
+  },
+  "crm": "CRM-SP-1007",
+  "tipo": "Especialista",
+  "especialidades": [
+    "Neurologia"
+  ],
+  "contato": {
+    "telefone": "11999990007",
+    "email": "laura.fernandes@hospital.com"
+  },
+  "documentos": {
+    "cpf": "00011122299",
+    "rg": "1234567-7"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c103"
+  },
+  "nome": "Pedro Henrique Alves",
+  "data_nascimento": {
+    "$date": "1983-04-18T00:00:00.000Z"
+  },
+  "crm": "CRM-SP-1008",
+  "tipo": "Residente",
+  "especialidades": [
+    "Ortopedia"
+  ],
+  "contato": {
+    "telefone": "11999990008",
+    "email": "pedro.alves@hospital.com"
+  },
+  "documentos": {
+    "cpf": "00011122300",
+    "rg": "1234567-8"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c104"
+  },
+  "nome": "Gabriel Santos",
+  "data_nascimento": {
+    "$date": "1979-02-05T00:00:00.000Z"
+  },
+  "crm": "CRM-SP-1009",
+  "tipo": "Especialista",
+  "especialidades": [
+    "Gastroenterologia"
+  ],
+  "contato": {
+    "telefone": "11999990009",
+    "email": "gabriel.santos@hospital.com"
+  },
+  "documentos": {
+    "cpf": "00011122311",
+    "rg": "1234567-9"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c105"
+  },
+  "nome": "Beatriz Oliveira",
+  "data_nascimento": {
+    "$date": "1991-06-08T00:00:00.000Z"
+  },
+  "crm": "CRM-SP-1010",
+  "tipo": "Especialista",
+  "especialidades": [
+    "Pediatria"
+  ],
+  "contato": {
+    "telefone": "11999990010",
+    "email": "beatriz.oliveira@hospital.com"
+  },
+  "documentos": {
+    "cpf": "00011122322",
+    "rg": "1234567-10"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c106"
+  },
+  "nome": "Ricardo Gabriel Nunes",
+  "data_nascimento": {
+    "$date": "1970-10-01T00:00:00.000Z"
+  },
+  "crm": "CRM-SP-1011",
+  "tipo": "Generalista",
+  "especialidades": [
+    "Clínica Geral"
+  ],
+  "contato": {
+    "telefone": "11999990011",
+    "email": "ricardo.nunes@hospital.com"
+  },
+  "documentos": {
+    "cpf": "00011122333",
+    "rg": "1234567-11"
+  },
+  "em_atividade": true
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c107"
+  },
+  "nome": "Fernanda Lima",
+  "data_nascimento": {
+    "$date": "1986-08-14T00:00:00.000Z"
+  },
+  "crm": "CRM-SP-1012",
+  "tipo": "Especialista",
+  "especialidades": [
+    "Dermatologia"
+  ],
+  "contato": {
+    "telefone": "11999990012",
+    "email": "fernanda.lima@hospital.com"
+  },
+  "documentos": {
+    "cpf": "00011122344",
+    "rg": "1234567-12"
+  },
+  "em_atividade": true
+}]

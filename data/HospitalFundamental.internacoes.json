@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "692afc884d1e8be99b12c11e"
+  },
+  "paciente_id": {
+    "$oid": "692afc874d1e8be99b12c109"
+  },
+  "medico_id": {
+    "$oid": "692afc874d1e8be99b12c0fe"
+  },
+  "quarto_id": {
+    "$oid": "692afc874d1e8be99b12c10f"
+  },
+  "data_entrada": {
+    "$date": "2017-02-01T10:00:00.000Z"
+  },
+  "data_prev_alta": {
+    "$date": "2017-02-05T10:00:00.000Z"
+  },
+  "data_alta": {
+    "$date": "2017-02-06T09:00:00.000Z"
+  },
+  "procedimentos": "Tratamento de gastroenterite aguda",
+  "enfermeiros_ids": [
+    {
+      "$oid": "692afc874d1e8be99b12c110"
+    },
+    {
+      "$oid": "692afc874d1e8be99b12c111"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "692afc884d1e8be99b12c11f"
+  },
+  "paciente_id": {
+    "$oid": "692afc874d1e8be99b12c10a"
+  },
+  "medico_id": {
+    "$oid": "692afc874d1e8be99b12c0fc"
+  },
+  "quarto_id": {
+    "$oid": "692afc874d1e8be99b12c10d"
+  },
+  "data_entrada": {
+    "$date": "2019-09-10T08:00:00.000Z"
+  },
+  "data_prev_alta": {
+    "$date": "2019-09-12T08:00:00.000Z"
+  },
+  "data_alta": {
+    "$date": "2019-09-12T08:00:00.000Z"
+  },
+  "procedimentos": "Monitoramento pós-operatório",
+  "enfermeiros_ids": [
+    {
+      "$oid": "692afc874d1e8be99b12c111"
+    },
+    {
+      "$oid": "692afc874d1e8be99b12c112"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "692afc884d1e8be99b12c120"
+  },
+  "paciente_id": {
+    "$oid": "692afc874d1e8be99b12c108"
+  },
+  "medico_id": {
+    "$oid": "692afc874d1e8be99b12c0fd"
+  },
+  "quarto_id": {
+    "$oid": "692afc874d1e8be99b12c10e"
+  },
+  "data_entrada": {
+    "$date": "2020-03-01T12:00:00.000Z"
+  },
+  "data_prev_alta": {
+    "$date": "2020-03-04T12:00:00.000Z"
+  },
+  "data_alta": {
+    "$date": "2020-03-05T11:00:00.000Z"
+  },
+  "procedimentos": "Tratamento de pneumonia",
+  "enfermeiros_ids": [
+    {
+      "$oid": "692afc874d1e8be99b12c110"
+    },
+    {
+      "$oid": "692afc874d1e8be99b12c113"
+    }
+  ]
+}]

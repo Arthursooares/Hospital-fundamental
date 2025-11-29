@@ -1,0 +1,108 @@
+[{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c11a"
+  },
+  "data_hora": {
+    "$date": "2016-03-10T09:00:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "692afc874d1e8be99b12c0fc"
+  },
+  "paciente_id": {
+    "$oid": "692afc874d1e8be99b12c108"
+  },
+  "especialidade": "Clínica Geral",
+  "valor": 250,
+  "convenio_id": {
+    "$oid": "692afc874d1e8be99b12c0f9"
+  },
+  "numero_carteira": "ST-0001",
+  "receita": [
+    {
+      "medicamento": "Amoxicilina",
+      "quantidade": 21,
+      "instrucoes": "Tomar 1 cápsula de 8/8h por 7 dias"
+    },
+    {
+      "medicamento": "Dipirona",
+      "quantidade": 10,
+      "instrucoes": "Tomar se tiver febre, até 4x ao dia"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c11b"
+  },
+  "data_hora": {
+    "$date": "2018-07-22T14:30:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "692afc874d1e8be99b12c0fe"
+  },
+  "paciente_id": {
+    "$oid": "692afc874d1e8be99b12c109"
+  },
+  "especialidade": "Gastroenterologia",
+  "valor": 320,
+  "convenio_id": {
+    "$oid": "692afc874d1e8be99b12c0fa"
+  },
+  "numero_carteira": "VP-0002",
+  "receita": [
+    {
+      "medicamento": "Omeprazol",
+      "quantidade": 30,
+      "instrucoes": "1 cápsula em jejum por 30 dias"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c11c"
+  },
+  "data_hora": {
+    "$date": "2020-01-15T10:00:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "692afc874d1e8be99b12c0ff"
+  },
+  "paciente_id": {
+    "$oid": "692afc874d1e8be99b12c10a"
+  },
+  "especialidade": "Dermatologia",
+  "valor": 400,
+  "convenio_id": null,
+  "numero_carteira": null,
+  "receita": [
+    {
+      "medicamento": "Pomada Corticoide",
+      "quantidade": 1,
+      "instrucoes": "Aplicar 2x ao dia por 10 dias"
+    },
+    {
+      "medicamento": "Hidratante",
+      "quantidade": 1,
+      "instrucoes": "Aplicar após o banho"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c11d"
+  },
+  "data_hora": {
+    "$date": "2020-11-05T16:00:00.000Z"
+  },
+  "medico_id": {
+    "$oid": "692afc874d1e8be99b12c0fd"
+  },
+  "paciente_id": {
+    "$oid": "692afc874d1e8be99b12c10b"
+  },
+  "especialidade": "Pediatria",
+  "valor": 280,
+  "convenio_id": null,
+  "numero_carteira": null,
+  "receita": []
+}]

@@ -1,0 +1,24 @@
+[{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c0f9"
+  },
+  "nome": "Saúde Total",
+  "cnpj": "11.111.111/0001-11",
+  "carencia_dias": 90
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c0fa"
+  },
+  "nome": "VidaPlena",
+  "cnpj": "22.222.222/0001-22",
+  "carencia_dias": 60
+},
+{
+  "_id": {
+    "$oid": "692afc874d1e8be99b12c0fb"
+  },
+  "nome": "BemEstar",
+  "cnpj": "33.333.333/0001-33",
+  "carencia_dias": 120
+}]
