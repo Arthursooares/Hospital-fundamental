@@ -25,7 +25,7 @@ Trabalho da disciplina de Banco de Dados utilizando MongoDB para modelar o siste
 2. Execute:
 
 ```js
-use hospital;
+use HospitalFundamental;
 
 // Parte 3 – povoamento inicial
 load("scripts/parte3_populamento.js");
