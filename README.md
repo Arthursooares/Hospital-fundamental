@@ -36,3 +36,15 @@ load("scripts/parte4_atualizacoes.js");
 // Parte 5 – consultas
 // (você pode carregar o arquivo ou copiar/colar as consultas conforme necessário)
 load("scripts/parte5_consultas.js");
+
+Os dados estão na pasta `data/`:
+
+- HospitalFundamental.medicos.json
+- HospitalFundamental.pacientes.json
+- HospitalFundamental.consultas.json
+- HospitalFundamental.internacoes.json
+- HospitalFundamental.convenios.json
+- HospitalFundamental.especialidades.json
+- HospitalFundamental.enfermeiros.json
+- HospitalFundamental.quartos.json
+- HospitalFundamental.tipos_quarto.json
